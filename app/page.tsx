@@ -6,7 +6,7 @@ export default function HomePage() {
     <main className="flex flex-col items-center p-24">
       <span className="text-5xl">Home Page!!!</span>
       
-      Ir al 
+      Ingresar a  
       <Link 
       className={ `${style.link}`}
       href={'/about'}>
